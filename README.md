@@ -17,7 +17,7 @@ This notebook successfully adapted SpaceGAN for ERA5 climate data:
 4. **Temporal Dimension**: Added time_idx as coordinate
 5. **Multiple Outputs**: Predicting multiple climate variables simultaneously
 
-### Next Steps:
+### Work In Progress:
 
 - Increase training epochs for better convergence
 - Download more ERA5 data (longer time periods, more variables)
