@@ -2,13 +2,13 @@
 
 This notebook successfully adapted SpaceGAN for ERA5 climate data:
 
-✅ **Data**: ERA5 spatial-temporal climate data (temperature, precipitation, pressure)
+**Data**: ERA5 spatial-temporal climate data (temperature, precipitation, pressure)
 
-✅ **Architecture**: Same SpaceGAN architecture with Generator and Discriminator
+**Architecture**: Same SpaceGAN architecture with Generator and Discriminator
 
-✅ **Features**: Spatial neighbors as context variables
+**Features**: Spatial neighbors as context variables
 
-✅ **Output**: Predictions of temperature and precipitation
+**Output**: Predictions of temperature and precipitation
 
 
 1. **Data Source**: ERA5 NetCDF
